@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Data Science Spring 2023 UMD"
+  navbar:
+    left:
+      - href: content/index.qmd
+        text: Home
+      - content/syllabus.qmd
+      - content/lecture-notes.qmd
+      - content/about.qmd
+
+
+format:
+  html:
+    theme: 
+      dark: darkly
+      light: flatly
+    css: styles.css
+    toc: true
+
+
+

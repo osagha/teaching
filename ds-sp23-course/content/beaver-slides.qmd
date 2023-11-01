@@ -1,0 +1,116 @@
+---
+title: QUDs and Presuppositions
+author: Omar Agha
+format: 
+  revealjs:
+    theme: dark
+    center: true
+---
+
+The paper presents a framework for using **information structure (QUDs)** to study **presuppositions**.
+
+---
+
+To understand why this is important, we need to introduce QUD theory and classical presupposition theory on their own.
+
+---
+
+## QUD Theory
+
+Most relevant reference is Craige Roberts in 1996. 
+
+::: aside 
+There is a 2012 reprint of the classic paper linked on the next slide.
+:::
+
+---
+
+<section data-background-iframe="https://semprag.org/index.php/sp/article/view/sp.5.6/pdf/5868" data-background-interactive></section>
+
+---
+
+# Focus Congruence
+
+---
+
+*Context: A potluck.*
+
+. . .
+
+What did Ann bring? 
+
+. . .
+
+Ann brought the \[cake\]$_F$. 
+
+. . .
+
+\# \[Ann\]$_F$ brought the cake.
+
+---
+
+
+Who brought the cake
+
+\# Ann brought the \[cake\]$_F$. 
+
+\[Ann\]$_F$ brought the cake.
+
+---
+
+## Focus Congruence
+
+Which noun phrase is being questioned determines the placement of focus in the response.
+
+---
+
+How should we think about focus in general, outside of question-answer pairs?
+
+---
+
+Any utterance can be thought of as *addressing an implicit question.*
+
+. . .
+
+This is the basic insight behind QUDs.
+
+---
+
+# Question Semantics
+
+---
+
+## {.center}
+
+In formal semantics, a question denotes a set of propositions (a.k.a. the Hamblin set, after C. L. Hamblin).
+
+. . .
+
+Each proposition is a possible answer to the question.
+
+. . .
+
+Each proposition denotes a set of worlds
+
+---
+
+$\text{What did Ann bring?} = \left\{\begin{gather}\text{Ann brought the cake}, \\ \text{Ann brought the salad}, \\ \text{Ann brought the lamb rack}, \\ ...\end{gather}\right\}$
+
+$\text{Who brought the cake} = \left\{\begin{gather}\text{Ann brought the cake}, \\ \text{Bill brought the cake}, \\ \text{Cindy brought the lamb cake}, \\ ...\end{gather}\right\}$
+
+---
+
+Another way of thinking about questions is as a *partition* of possible worlds.
+
+The partition representation can be retrieved by flattening the set of sets of worlds.
+
+---
+
+Note: This way of thinking about questions is fundamentally truth-conditional, as is the QUD framework.
+
+---
+
+# The QUD
+
+---
+

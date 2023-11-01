@@ -1,0 +1,26 @@
+{
+  "about.qmd": {
+    "about.html": "a1aa0dce"
+  },
+  "index.qmd": {
+    "index.html": "058b8565"
+  },
+  "syllabus.qmd": {
+    "syllabus.html": "94462f73"
+  },
+  "content/syllabus.qmd": {
+    "syllabus.html": "5cddef71"
+  },
+  "content/about.qmd": {
+    "about.html": "fbd80c1a"
+  },
+  "content/index.qmd": {
+    "index.html": "3b91b5c0"
+  },
+  "content/lecture-notes.qmd": {
+    "lecture-notes.html": "c700a216"
+  },
+  "content/beaver-slides.qmd": {
+    "beaver-slides.html": "c57be79b"
+  }
+}

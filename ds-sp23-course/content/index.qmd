@@ -1,0 +1,9 @@
+---
+title: "Welcome to ARHU 299"
+---
+
+Here's a link to the latest lecture notes.
+
+And the previous.
+
+Please see the syllabus for all course information.

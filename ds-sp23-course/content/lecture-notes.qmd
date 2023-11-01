@@ -1,0 +1,7 @@
+---
+title: "Lecture Notes"
+---
+
+# 1. Data Analysis in Python
+
+## a. Python Crash Course

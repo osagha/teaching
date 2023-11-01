@@ -1,0 +1,23 @@
+---
+title: "Syllabus"
+author: "Omar Agha"
+date: today
+---
+
+# Logistics
+
+# Topics
+
+1. Data Analysis in Python
+- Python Crash Course
+- Objects and Data
+- Pandas Dataframes
+- Making Plots
+2. Text Classification
+- Naive Bayes
+- Logistic Regression
+- Vector Semantics
+- Neural Classifiers
+3. Language Models
+- Recurrant Neural Networks
+- Transformer Models

@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "content/syllabus.html",
+    "href": "content/syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Logistics\n\n\nTopics\n\nData Analysis in Python\n\n\nPython Crash Course\nObjects and Data\nPandas Dataframes\nMaking Plots\n\n\nText Classification\n\n\nNaive Bayes\nLogistic Regression\nVector Semantics\nNeural Classifiers\n\n\nLanguage Models\n\n\nRecurrant Neural Networks\nTransformer Models"
+  },
+  {
+    "objectID": "content/about.html",
+    "href": "content/about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Welcome to ARHU 299",
+    "section": "",
+    "text": "Here’s a link to the latest lecture notes.\nAnd the previous.\nPlease see the syllabus for all course information."
+  },
+  {
+    "objectID": "content/beaver-slides.html",
+    "href": "content/beaver-slides.html",
+    "title": "QUD Theory",
+    "section": "",
+    "text": "The paper presents a framework for using information structure (QUDs) to study presuppositions.\n\nTo understand why this is important, we need to introduce QUD theory and classical presupposition theory on their own.\n\n\nQUD Theory\nFirst introduced by Craige Roberts in 1996.\naside: There is a 2012 reprint of the classic paper linked on the next slide.\n\n\n\nContext: A potluck.\nWhat did Ann bring?\nAnn brought a [cake]\\(_F\\).\n# [Ann]\\(_F\\) brought a cake."
+  },
+  {
+    "objectID": "content/beaver-slides.html#focus-congruence-1",
+    "href": "content/beaver-slides.html#focus-congruence-1",
+    "title": "QUDs and Presuppositions",
+    "section": "Focus Congruence",
+    "text": "Focus Congruence\nWhich noun phrase is being questioned determines the placement of focus in the response."
+  },
+  {
+    "objectID": "content/beaver-slides.html#qud-theory",
+    "href": "content/beaver-slides.html#qud-theory",
+    "title": "QUDs and Presuppositions",
+    "section": "QUD Theory",
+    "text": "QUD Theory\nMost relevant reference is Craige Roberts in 1996.\n\n\nThere is a 2012 reprint of the classic paper linked on the next slide."
+  },
+  {
+    "objectID": "content/beaver-slides.html#r-text-fit",
+    "href": "content/beaver-slides.html#r-text-fit",
+    "title": "Data Science Spring 2023 UMD",
+    "section": "{r-text-fit}",
+    "text": "{r-text-fit}\nIn formal semantics, a question denotes a set of propositions (a.k.a. the Hamblin set, after C. L. Hamblin).\n\nEach proposition is a possible answer to the question.\n\n\nEach propositoin denotes a set of worlds"
+  },
+  {
+    "objectID": "content/beaver-slides.html#section",
+    "href": "content/beaver-slides.html#section",
+    "title": "QUDs and Presuppositions",
+    "section": "",
+    "text": "In formal semantics, a question denotes a set of propositions (a.k.a. the Hamblin set, after C. L. Hamblin).\n\nEach proposition is a possible answer to the question.\n\n\nEach proposition denotes a set of worlds"
+  }
+]
